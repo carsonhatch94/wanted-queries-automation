@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="cancelWanted"
+    errors="0" failures="1" hostname="" id="" package="cancelWanted" skipped="0"
+    tests="2" time="8.408" timestamp="">
+  
+    <testcase name="Valid Entry" classname="cancelWanted" time="1.638" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Invalid Entry" classname="cancelWanted" time="6.770" assertions="4">
+
+    
+
+    
+
+      <failure message="Expected element &lt;Element [name=@results]&gt; text to contain: &#34;Errors Received:&#34; - expected [0;32m&#34;contain &#39;Errors Received:&#39;&#34;[0m but got: [0;31m&#34;Submit Clear
+Valid
+
+Assembled Query: 0123456789.......2011-11-11&#34;[0m">    at module.exports (C:\Users\Tommy Platero\Documents\DevMtn\wanted-queries-automation\testAssets\cancelWantedInvalid.js:11:23)
+    at Object.Invalid Entry (C:\Users\Tommy Platero\Documents\DevMtn\wanted-queries-automation\tests\cancelWanted.js:25:5)</failure>
+
+    <failure message="    at module.exports (C:\Users\Tommy Platero\Documents\DevMtn\wanted-queries-automation\testAssets\cancelWantedInvalid.js:11:23)">    at Object.Invalid Entry (C:\Users\Tommy Platero\Documents\DevMtn\wanted-queries-automation\tests\cancelWanted.js:25:5)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

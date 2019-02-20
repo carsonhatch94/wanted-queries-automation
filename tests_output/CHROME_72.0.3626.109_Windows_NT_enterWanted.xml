@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="enterWanted"
+    errors="0" failures="0" hostname="" id="" package="enterWanted" skipped="0"
+    tests="2" time="21.75" timestamp="">
+  
+    <testcase name="Valid Entry" classname="enterWanted" time="2.549" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Invalid Entry" classname="enterWanted" time="19.21" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

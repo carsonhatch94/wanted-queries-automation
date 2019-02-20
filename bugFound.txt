@@ -1,0 +1,24 @@
+On Enter Wanted page, future dates cannot be entered on DL Expiration Date or License Expiration Data
+Text fields change length when errors pop up. Also when valid data is entered
+Drop down menus were not in system requirements for project (Sex, Race/Ethnicity). Can't type data, just click from pull down. 
+Hair accepts special characters, requirements say it should only accept alpha characters
+OAI accepts special characters, only should accept alphanumeric
+
+On Modify Wanted page, text fields become longer when invalid data is entered
+Can enter dates before 01/01/1900 and when you do, it says that those fields only accept numbers, even though only numbers are there
+When you enter one of Drivers License, DL State, DL Expiration Date or License Plate, License State, License Expiration Date then you get an error message asking for the others. This is fine on the other pages but what if the error is only on one part of those?
+When valid data is entered, "000" is entered into weight field (except when that data is entered into weight field)
+Drop down menus were not in system requirements for project (Sex, Race/Ethnicity). Can't type data, just click from pull down. 
+Text fields change length when errors pop up. Also when valid data is entered
+
+On Cancel Wanted page, Can enter dates before 01/01/1900 and when you do, it says that those fields only accept numbers, even though only numbers are there
+
+
+General Errors:
+Why is there no way to know what page I'm on once I've clicked it? Easy to get mixed up/lost
+Page description is weird; no one submits something for a list of errors, that is a byproduct
+Menu page is ugly. Other pages should not be in a bullet point list, they should be clickable
+Burger menu X is kind of hard to see, would be nice to have an arrow or something indicating where you are
+Why is there a scroll bar on the burger menu? It doesn't need it
+Periods are accepted on fields which allow special or any characters
+when invalid data is entered the text "Errors Received:" appears but when you edit a text field, the colon disappears.
